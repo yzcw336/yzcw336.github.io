@@ -37,7 +37,7 @@ Campus-Secondhand-Assistant
 
 Campus-Secondhand-Assistant/
 ├── frontend/          # Vue3 前端（卖家发布端 + 买家浏览端）
-├── backend/           # Spring Boot 后端（分层：controller/service/mapper/entity/dto/config）
+├── backend/           # Spring Boot 后端（controller/service/mapper/entity/dto/config）
 ├── docs/              # 课程设计文档
 │   ├── sql/           # 数据库脚本（init.sql）
 │   ├── api/           # API 接口文档
